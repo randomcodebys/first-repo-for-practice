@@ -1,1 +1,3 @@
 This is my new feature!
+I thought i already have main branch since i create new repo and cloned to my local.
+
