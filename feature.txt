@@ -1,1 +1,4 @@
 This is my new feature!
+//add some text to feature
+I thought i already have main branch since i create new repo and cloned to my local.
+
